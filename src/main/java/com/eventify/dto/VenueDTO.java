@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class VenueRequestDTO {
+public class VenueDTO {
     private Long id;
     private String name;
     private String address;
